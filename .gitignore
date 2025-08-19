@@ -4,3 +4,6 @@ venv/
 # Images
 trainings/images/
 trainings/meta/
+
+# Models
+*.h5
